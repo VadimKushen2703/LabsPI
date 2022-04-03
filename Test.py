@@ -1,8 +1,6 @@
 from matplotlib import pyplot
 import numpy as np
 import matplotlib.pyplot as ppl
-from scipy.stats import norm
-from scipy import interpolate
 
 x = [0.0481, 0.0461, 0.0492, 0.0502, 0.0511, 0.0430, 0.0460, 
      0.0488,0.0453, 0.0497, 0.0521, 0.0519, 0.0531, 0.0466, 
